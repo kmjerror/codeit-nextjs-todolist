@@ -14,7 +14,7 @@ const Header = () => {
             TODOLIST
           </Link>
           <Link
-            href="/newTodo"
+            href="/new-todo"
             className="rounded bg-black px-3 py-1.5 text-white hover:opacity-90"
           >
             NEW TODO
